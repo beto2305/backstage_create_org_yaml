@@ -1,0 +1,3 @@
+DEBUG:  cmd.py:  MainThread:  git.cmd:  Popen(['git', 'version'], cwd=/home/betao/development/script_csv_yaml, universal_newlines=False, shell=None, istream=None)
+DEBUG:  cmd.py:  MainThread:  git.cmd:  Popen(['git', 'version'], cwd=/home/betao/development/script_csv_yaml, universal_newlines=False, shell=None, istream=None)
+DEBUG:  cmd.py:  MainThread:  git.cmd:  Popen(['git', 'remote', 'show'], cwd=/home/betao/development/script_csv_yaml, universal_newlines=False, shell=None, istream=None)

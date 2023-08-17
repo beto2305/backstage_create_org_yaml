@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: { NAME }
+  description: { TITLE }
+  labels:
+    acme.com/employee-id: { ID }
+spec:
+  profile:
+    displayName: { NAME }
+    email: { EMAIL }
+    picture: { PICTURE }
+  memberOf: [{ TEAM }]
